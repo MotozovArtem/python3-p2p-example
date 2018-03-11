@@ -5,6 +5,6 @@ An example of a program that organizes a peer-to-peer (p2p) network.\
 
 ### Required libraries
 
-* python-nmap (v 0.6.1)
+* python-nmap (v 0.6.1) **required nmap util**
 * Twisted (v17.9.0) 
 * netifaces (v0.10.6)
