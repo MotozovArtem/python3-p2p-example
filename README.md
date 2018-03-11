@@ -3,7 +3,7 @@ An example of a program that organizes a peer-to-peer (p2p) network.\
 Пример программы организующую пиринговую сеть
 
 
-###Required libraries
+### Required libraries
 
 * python-nmap (v 0.6.1)
 * Twisted (v17.9.0) 
